@@ -13,15 +13,15 @@ Instructions.txt contains the neccessary instructions for the first HTML/CSS cha
 Below is a list of coding challenges that increase in difficulty. Please finish as many as you are able to complete.
 When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
 
-* [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL
-* [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
-* [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
-* [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
-* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
-* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
-* [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
+* [Name] - http://jsfiddle.net/U3ezV/ - http://jsfiddle.net/homestarflyer/U3ezV/982/
+* [Food] - http://jsfiddle.net/85Lp6mba/ - http://jsfiddle.net/homestarflyer/85Lp6mba/656/
+* [Double] - http://jsfiddle.net/hu85B/ - http://jsfiddle.net/homestarflyer/hu85B/861/
+* [Addition] - http://jsfiddle.net/M8pZf/ - http://jsfiddle.net/homestarflyer/M8pZf/559/
+* [First] - http://jsfiddle.net/zsFvE/ - http://jsfiddle.net/homestarflyer/zsFvE/673/
+* [Last] -  http://jsfiddle.net/rLes9kdb/ - http://jsfiddle.net/homestarflyer/rLes9kdb/295/
+* [Loop] - http://jsfiddle.net/YM7th/ - http://jsfiddle.net/homestarflyer/YM7th/517/
+* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - http://jsfiddle.net/homestarflyer/4zfcz/535/
+* [me] - http://jsfiddle.net/5Ua3r/ - http://jsfiddle.net/homestarflyer/5Ua3r/432/
+* [favoriteThings] - http://jsfiddle.net/zCcnT/ - http://jsfiddle.net/homestarflyer/zCcnT/499/
+* [firstLoop] - http://jsfiddle.net/Lgf3G/ - http://jsfiddle.net/homestarflyer/Lgf3G/559/
+* [userObj] - http://jsfiddle.net/VkvMV/ - http://jsfiddle.net/homestarflyer/VkvMV/544/
